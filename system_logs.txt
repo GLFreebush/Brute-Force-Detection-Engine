@@ -1,0 +1,6 @@
+192.168.0.1 - - [19/Mar/2026:08:43:44] Failed login attempt
+192.168.0.1 - - [19/Mar/2026:08:45:21] Failed login attempt
+192.168.0.2 - - [19/Mar/2026:08:47:05] Failed login attempt
+192.168.0.1 - - [19/Mar/2026:08:49:12] Failed login attempt
+192.168.0.1 - - [19/Mar/2026:08:51:33] Failed login attempt
+192.168.0.1 - - [19/Mar/2026:08:53:44] Failed login attempt
